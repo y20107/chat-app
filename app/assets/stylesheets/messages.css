@@ -20,6 +20,7 @@
 .user_link a {
   font-size: 16px;
   color: #FAFAFA;
+  text-decoration: none;
 }
 
 .chat_edit a {
@@ -27,6 +28,7 @@
   border: 1px solid lightblue;
   font-size: 10px;
   color: deepskyblue;
+  text-decoration: none;
 }
 
 .side_front {
