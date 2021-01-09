@@ -9,7 +9,7 @@
 <div class="side_front">
   <% current_user.rooms.each do |room| %>
     <div class="chat_link">
-      <a half="#"><%= room.name %></a>
+      <%= link_to room.name, room_messages_path(room) %>
     </div>
   <% end %>
 </div>

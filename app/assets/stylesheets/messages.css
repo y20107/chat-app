@@ -44,6 +44,7 @@
 
 .chat_link a {
   color: white;
+  text-decoration: none;
 }
 
 /* メインチャット */
@@ -75,6 +76,7 @@
   padding: 20px;
   border: 1px solid darkred;
   color: darkred;
+  text-decoration: none;
 }
 
 .main_front {
